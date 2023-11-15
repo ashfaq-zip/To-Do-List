@@ -4,5 +4,5 @@ publish="/build"
 base = "/"
 [[redirects]]
 from = "/*"
-to="/index.html"
+to="/home.php"
 status = 200
